@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagar9905/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sagar9905/Leetcode_solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagar9905/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sagar9905/Leetcode_solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sagar9905/Leetcode_solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sagar9905/Leetcode_solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sagar9905/Leetcode_solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
