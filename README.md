@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagar9905/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -21,4 +22,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2270-number-of-ways-to-split-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2270-number-of-ways-to-split-array) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
