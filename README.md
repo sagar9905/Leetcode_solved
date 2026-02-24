@@ -56,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sagar9905/Leetcode_solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sagar9905/Leetcode_solved/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sagar9905/Leetcode_solved/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sagar9905/Leetcode_solved/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sagar9905/Leetcode_solved/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
