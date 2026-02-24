@@ -1,20 +1,20 @@
 class Solution {
-    int n ; 
-    int dp[][]= new int[2501][2501];
+   
     public int lengthOfLIS(int[] nums) {
-      this.n = nums.length;
-       for (int[] row : dp) Arrays.fill(row, -1);
-      return solve(nums,0,-1); 
-    }
-    public int solve(int nums[], int i, int p){
-        if(i>=n) return 0;
-        if(p!=-1 && dp[i][p]!=-1) return dp[i][p];
-        int take=0;
-        if(p==-1||nums[i]>nums[p]){
-         take= 1+solve(nums,i+1, i);
-        }
-        int skip =solve(nums ,i+1, p);
-        if(p!=-1)dp[i][p]= Math.max(skip,take);
-        return Math.max(skip, take);
+     int  n = nums.length;
+     int dp[]= new int[n];
+     Arrays.fill(dp,1);
+      for(int i=0; i<n; i++){
+          for(int j=0; j<i; j++){
+            if(nums[j]<nums[i]){
+                dp[i]= Math.max(dp[i], 1+dp[j]);
+            }
+          }
+      }
+      int max=0;
+      for(int i=0; i<n;i++){
+         max = Math.max(max,dp[i]);
+      }
+      return max;
     }
 }
