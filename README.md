@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
+| [1732-find-the-highest-altitude](https://github.com/sagar9905/Leetcode_solved/tree/master/1732-find-the-highest-altitude) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2270-number-of-ways-to-split-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/sagar9905/Leetcode_solved/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2270-number-of-ways-to-split-array) |
 ## Tree
 |  |
