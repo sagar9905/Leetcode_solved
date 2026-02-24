@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/sagar9905/Leetcode_solved/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
