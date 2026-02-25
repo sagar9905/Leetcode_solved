@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1732-find-the-highest-altitude](https://github.com/sagar9905/Leetcode_solved/tree/master/1732-find-the-highest-altitude) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2270-number-of-ways-to-split-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/sagar9905/Leetcode_solved/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Recursion
 |  |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sagar9905/Leetcode_solved/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
+## Sorting
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
