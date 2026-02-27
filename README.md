@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/sagar9905/Leetcode_solved/tree/master/1732-find-the-highest-altitude) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2270-number-of-ways-to-split-array) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Database
 |  |
 | ------- |
@@ -108,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
