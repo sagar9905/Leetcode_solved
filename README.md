@@ -38,15 +38,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sagar9905/Leetcode_solved/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sagar9905/Leetcode_solved/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sagar9905/Leetcode_solved/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
