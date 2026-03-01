@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sagar9905/Leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sagar9905/Leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Database
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sagar9905/Leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
