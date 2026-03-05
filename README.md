@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sagar9905/Leetcode_solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sagar9905/Leetcode_solved/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
