@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0274-h-index](https://github.com/sagar9905/Leetcode_solved/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
 | [1732-find-the-highest-altitude](https://github.com/sagar9905/Leetcode_solved/tree/master/1732-find-the-highest-altitude) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sagar9905/Leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Database
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sagar9905/Leetcode_solved/tree/master/0274-h-index) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
 ## Two Pointers
@@ -146,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3813-vowel-consonant-score](https://github.com/sagar9905/Leetcode_solved/tree/master/3813-vowel-consonant-score) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
