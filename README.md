@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sagar9905/Leetcode_solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sagar9905/Leetcode_solved/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3813-vowel-consonant-score](https://github.com/sagar9905/Leetcode_solved/tree/master/3813-vowel-consonant-score) |
 ## Sliding Window
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/sagar9905/Leetcode_solved/tree/master/1732-find-the-highest-altitude) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2270-number-of-ways-to-split-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/sagar9905/Leetcode_solved/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Prefix Sum
