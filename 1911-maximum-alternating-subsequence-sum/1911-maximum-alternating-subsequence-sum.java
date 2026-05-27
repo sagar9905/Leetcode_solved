@@ -1,15 +1,18 @@
-import java.util.*;
 
 class Solution {
- int n ;
-long dp[][];
     public long maxAlternatingSum(int[] nums) {
-     this.n= nums.length;
-     dp= new long[n+1][2];
- for(int i=1; i<=n;i++){
-    dp[i][0]= Math.max(dp[i-1][1]-nums[i-1], dp[i-1][0]);
-    dp[i][1]= Math.max(dp[i-1][0]+nums[i-1], dp[i-1][1]);
- }
- return Math.max(dp[n][0], dp[n][1]);
+     Long dp[][] = new Long[nums.length][2];
+     return solve(nums,nums.length, 0, 1, dp);
+    }
+    public long solve( int[] nums, int n, int i, int c, Long dp[][] ){
+     if(i>= nums.length) return 0;
+     if(dp[i][c] !=null) return  dp[i][c];
+     int val = nums[i];
+     if(c==0){
+        val = -val;
+     }
+     long take = solve(nums,n, i+1, 1-c, dp)+val;
+      long skip = solve(nums,n, i+1,c, dp );
+      return dp[i][c]= Math.max(take,skip);
     }
 }
