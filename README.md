@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sagar9905/Leetcode_solved/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sagar9905/Leetcode_solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sagar9905/Leetcode_solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2270-number-of-ways-to-split-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sagar9905/Leetcode_solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sagar9905/Leetcode_solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/sagar9905/Leetcode_solved/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Prefix Sum
 |  |
