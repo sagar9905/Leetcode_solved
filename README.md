@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sagar9905/Leetcode_solved/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/sagar9905/Leetcode_solved/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/sagar9905/Leetcode_solved/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sagar9905/Leetcode_solved/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/sagar9905/Leetcode_solved/tree/master/0198-house-robber) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sagar9905/Leetcode_solved/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/sagar9905/Leetcode_solved/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sagar9905/Leetcode_solved/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sagar9905/Leetcode_solved/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
