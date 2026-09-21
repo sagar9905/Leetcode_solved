@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sagar9905/Leetcode_solved/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/sagar9905/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sagar9905/Leetcode_solved/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/sagar9905/Leetcode_solved/tree/master/0198-house-robber) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sagar9905/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sagar9905/Leetcode_solved/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/sagar9905/Leetcode_solved/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/sagar9905/Leetcode_solved/tree/master/0509-fibonacci-number) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Trie
 |  |
