@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sagar9905/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/sagar9905/Leetcode_solved/tree/master/0692-top-k-frequent-words) |
+| [0931-minimum-falling-path-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
 | [1732-find-the-highest-altitude](https://github.com/sagar9905/Leetcode_solved/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sagar9905/Leetcode_solved/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sagar9905/Leetcode_solved/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/sagar9905/Leetcode_solved/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/0646-maximum-length-of-pair-chain) |
+| [0931-minimum-falling-path-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/sagar9905/Leetcode_solved/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/0931-minimum-falling-path-sum) |
 ## Trie
 |  |
 | ------- |
