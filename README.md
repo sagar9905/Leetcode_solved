@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sagar9905/Leetcode_solved/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sagar9905/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sagar9905/Leetcode_solved/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sagar9905/Leetcode_solved/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagar9905/Leetcode_solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3813-vowel-consonant-score](https://github.com/sagar9905/Leetcode_solved/tree/master/3813-vowel-consonant-score) |
 ## Heap (Priority Queue)
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sagar9905/Leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sagar9905/Leetcode_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/sagar9905/Leetcode_solved/tree/master/0931-minimum-falling-path-sum) |
